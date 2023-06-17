@@ -45,17 +45,34 @@
       "missionShort": "Creating test cases, documentation and manual testing",
       "missionLong": [
         "Creating test cases, documentation and manual testing",
-        "Lorem ipsaor test 2 sit amet, consectetur adipiscing elit. Ut in pharetra mauris. Etiam a tortor ut quam eleifend pretium. Aliquam mauris lorem, rutrum sit amet odio vitae, tristique imperdiet urna."
+        "I'm working manually testing the software that our developers creates like websites, mobile apps, propietary software and propietary hardware in order to create the best technological solution for the aquaculture.",
+        "My main mission is to write test cases, make documentation for errors, automatation testing and sometimes UX/UI suggestions for improvement on the hardware/software."
       ],
-      "missions": ["Travel in the Galaxy", "Write Articles", "Don't Panic"],
+      "missions": [
+        "Manual testing",
+        "Write test cases",
+        "Apply agile methodology",
+        "Automation Testing"
+      ],
       "additionals": [
         {
-          "label": "Trainings",
-          "details": ["Babel Fish implantation"]
-        },
-        {
-          "label": "Ability",
-          "details": ["Towel Jujutsu", "Thumb up"]
+          "label": "Tech",
+          "details": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "React",
+            "Clickup (Kanban Board)",
+            "WebdriverIO",
+            "Mocha",
+            "NodeJS",
+            "Git",
+            "GitHub",
+            "PHP",
+            "Expo",
+            "Agile",
+            "Scrum"
+          ]
         }
       ]
     }
