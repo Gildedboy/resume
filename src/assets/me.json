@@ -1,68 +1,61 @@
 {
-  "pdfUrl": "./cv.pdf",
+  "pdfUrl": "",
   "me": {
-    "firstname": "Jone",
-    "lastname": "Dœuf",
-    "contact": "https://linkedin.com/in/42",
-    "spotlight": "Experienced Galactic Hitchhiker.",
-    "occupation": "Researcher"
+    "firstname": "Omar",
+    "lastname": "Millán Cázares",
+    "contact": "https://linkedin.com/in/gilded/",
+    "spotlight": "QA Tester with a few years in the software industry, specializing in Javascript automation testing",
+    "occupation": "QA Tester"
   },
   "about": {
     "details": "Lorem ipsum dolor sit amet, <b>consectetur</b> adipiscing elit. Ut in pharetra mauris. Etiam a tortor ut quam eleifend pretium. Aliquam mauris lorem, rutrum sit amet odio vitae, tristique imperdiet urna. Integer tellus leo, faucibus vel ullamcorper quis, lobortis id neque. Vivamus vel lacinia justo, non fermentum turpis. Cras semper nibh eu urna ullamcorper, vitae volutpat ante viverra.",
-    "mantra": "Never Forget Your Towel!"
+    "mantra": "Si te rindes, pierdes"
   },
   "languages": [
     {
-      "code": "gb",
+      "code": "mx",
+      "name": "Spanish",
+      "level": "Native"
+    },
+    {
+      "code": "us",
       "name": "English",
-      "level": "Professional"
+      "level": "Conversational-Advanced"
     }
   ],
   "education": [
     {
-      "location": "Betelgeuse V University",
-      "major": "Professional degree in writing jokes",
-      "years": "2002-2006"
+      "location": "Mazatlán, Sinaloa, Mexico",
+      "major": "Bachelor degree in Computer Science",
+      "years": "2009-2013"
     }
   ],
-  "hobbies": [
-    "Clean my Towel",
-    "Vogon Poetry"
-  ],
+  "hobbies": ["Fighting games enthusiast & Full Stack Javascript developer at nights "],
   "companies": {
-    "H2G2": {
-      "name": "Megadodo Publications",
-      "location": "Ursa Minor Beta"
+    "ACUICULTEC": {
+      "name": "Acuicultec",
+      "location": "Mazatlán, Sinaloa, Mexico"
     }
   },
   "experiences": [
     {
-      "name": "Researcher",
-      "compagny": "H2G2",
-      "years": "2007-now",
-      "missionShort": "Writing articles for the Hitchhiker's Guide to the Galaxy",
+      "name": "QA Tester",
+      "compagny": "ACUICULTEC",
+      "years": "2022-now",
+      "missionShort": "Creating test cases, documentation and manual testing",
       "missionLong": [
-        "Writing articles for the Hitchhiker's Guide to the Galaxy",
+        "Creating test cases, documentation and manual testing",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in pharetra mauris. Etiam a tortor ut quam eleifend pretium. Aliquam mauris lorem, rutrum sit amet odio vitae, tristique imperdiet urna."
       ],
-      "missions": [
-        "Travel in the Galaxy",
-        "Write Articles",
-        "Don't Panic"
-      ],
+      "missions": ["Travel in the Galaxy", "Write Articles", "Don't Panic"],
       "additionals": [
         {
           "label": "Trainings",
-          "details": [
-            "Babel Fish implantation"
-          ]
+          "details": ["Babel Fish implantation"]
         },
         {
           "label": "Ability",
-          "details": [
-            "Towel Jujutsu",
-            "Thumb up"
-          ]
+          "details": ["Towel Jujutsu", "Thumb up"]
         }
       ]
     }
