@@ -96,8 +96,8 @@
       "missionShort": "Defect/Bug Tracking and Project Management",
       "missionLong": [
         "Defect/Bug Tracking and Project Management",
-        "I worked as a Project Manager ensuring to create a solution for Alamo Rent a Car, this solution was with the intention of create a mobile app so users can book a car and drive it without requiring to go to an Alamo Office and instead the vehicle was a safe location like a mall or hotel parking lot where users can book it, drive it and leave it in another safe spot, it was like Uber but you could drive the vehicle",
-        "My main mission was to contact with the developers, creators of the solution and making sure that they can fulfill Alamo standards and make the required changes so the experience for users in Mexico would be perfect without any issues, I had to manually install the required hardware, test the software (for clients and administrators) and also make tickets in Jira in order to track these ones until their fulfilment"
+        "I worked as a Project Manager ensuring to create a solution for Alamo Rent a Car, this solution was with the intention of create a mobile app so users can book a car and drive it without requiring to go to an Alamo Office and instead the vehicle was a safe location like a mall or hotel parking lot where users can book it, drive it and leave it in another safe spot, it was like Uber but you could drive the vehicle.",
+        "My main mission was to contact with the developers, creators of the solution and making sure that they can fulfill Alamo standards and make the required changes so the experience for users in Mexico would be perfect without any issues, I had to manually install the required hardware, test the software (for clients and administrators) and also make tickets in Jira in order to track these ones until their fulfilment."
       ],
       "missions": [
         "Defect/Bug Tracking",
@@ -122,7 +122,7 @@
       "missionShort": "CMMI Implementation, Web Developer Trainee",
       "missionLong": [
         "CMMI Implementation, Web Developer Trainee",
-        "I worked as a Software Analyst and my main task was to implement CMMI Best Practices in order to make developers on this company to understand CMMI and optimize the process of developing the propietary software, including to this I was also given the opportunity to develop some websites using wordpress as backend and the frontend being custom made"
+        "I worked as a Software Analyst and my main task was to implement CMMI Best Practices in order to make developers on this company to understand CMMI and optimize the process of developing the propietary software, including to this I was also given the opportunity to develop some websites using wordpress as backend and the frontend being custom made."
       ],
       "missions": [
         "Implementation of CMMI Best Practices",
@@ -140,20 +140,12 @@
       "name": "Data Capturer",
       "compagny": "CAPTAIN-GANDHI",
       "years": "2013-2015",
-      "missionShort": "Defect/Bug Tracking and Project Management",
+      "missionShort": "Inventory Management, Reporting and Creations of labels for product shipping",
       "missionLong": [
-        "Defect/Bug Tracking and Project Management",
-        "I worked as a Software Analyst and my main task was to implement CMMI Best Practices in order to make developers on this company to  understand CMMI and optimize the process of developing the propietary software "
+        "Inventory Management, Reporting and Creations of labels for product shipping",
+        "I worked as a Data Capturer, making sure that everyday the inventory of our products were in the system and were real compared to our frozen stock; also I was in charge of creating labels for this products including their Name, Weight and most importantly their expiration date."
       ],
-      "missions": [
-        "Defect/Bug Tracking",
-        "Jira Ticket Creation",
-        "Reporting",
-        "Installation of propietary hardware required for the service",
-        "Testing in any end (client, worker)",
-        "Project Managment",
-        "Translations"
-      ],
+      "missions": ["Inventory Management", "Reporting", "Creations of labels for product shipping"],
       "additionals": [
         {
           "label": "Tech",
