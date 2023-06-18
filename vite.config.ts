@@ -11,10 +11,10 @@ export default defineConfig({
       minify: true,
       inject: {
         data: {
-          title: me.me.firstname+" "+me.me.lastname,
+          title: me.me.firstname + " " + me.me.lastname,
         },
       },
     }),
   ],
-  base: "./",
+  base: "/resume/",
 });
