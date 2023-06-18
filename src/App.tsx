@@ -50,13 +50,10 @@ function App() {
           <Competencies competencies={competencies} />
           <Skills skillGroups={skills} />
         </div>
-        <div className="footer">
-          Design{" "}
-          <a href="https://github.com/StudioKris/nord-theme-resume">
-            Nord Theme Resume
-          </a>{" "}
+        {/* <div className="footer">
+          Design <a href="https://github.com/StudioKris/nord-theme-resume">Nord Theme Resume</a>{" "}
           from <a href="https://studiokris.com/cv/">StudioKris</a>
-        </div>
+        </div> */}
       </div>
 
       <FloatingActionButton
