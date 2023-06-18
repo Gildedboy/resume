@@ -1,36 +1,141 @@
 [
   {
-    "name": "Writings",
+    "name": "Writing",
     "skills": [
       {
-        "name": "Situation Analysing",
-        "level": 1,
-        "details": "Understanding what happens"
+        "name": "Test Cases",
+        "level": 3,
+        "details": "Design and Use"
       },
       {
-        "name": "Summarizing",
-        "level": 2,
-        "details": "Can reduce a complex situation to few words"
+        "name": "Requeriments",
+        "level": 3,
+        "details": "Design and Use"
+      },
+      {
+        "name": "Defects",
+        "level": 3,
+        "details": "Design and Use"
       }
     ]
   },
   {
-    "name": "Survival",
+    "name": "DevOps",
     "skills": [
       {
-        "name": "Galactic Hitchhiker",
+        "name": "Bash",
+        "level": 2,
+        "details": "Use"
+      },
+      {
+        "name": "CI/CD",
+        "level": 2,
+        "details": "Use"
+      },
+      {
+        "name": "Docker",
+        "level": 1,
+        "details": "Known and Basic Deploy"
+      }
+    ]
+  },
+  {
+    "name": "BackEnd",
+    "skills": [
+      {
+        "name": "MySQL My Admin",
+        "level": 2,
+        "details": "Use"
+      },
+      {
+        "name": "NodeJS",
         "level": 3,
-        "details": "Thumb up"
+        "details": "Use and Deploy"
       },
       {
-        "name": "Babel Fish",
-        "level": 4,
-        "details": "Hear any language"
+        "name": "HeidiSQL",
+        "level": 3,
+        "details": "Use"
       },
       {
-        "name": "Towel mastering",
-        "level": 5,
-        "details": "drape myself, hand-to-hand combat, hood my head..."
+        "name": "PHP",
+        "level": 1,
+        "details": "Known and Use"
+      }
+    ]
+  },
+  {
+    "name": "FrontEnd & Testing",
+    "skills": [
+      {
+        "name": "HTML",
+        "level": 3,
+        "details": "Develope"
+      },
+      {
+        "name": "CSS",
+        "level": 3,
+        "details": "Develope"
+      },
+      {
+        "name": "Javascript",
+        "level": 3,
+        "details": "Develope"
+      },
+      {
+        "name": "React",
+        "level": 1,
+        "details": "Known"
+      },
+      {
+        "name": "WebDriverIO",
+        "level": 3,
+        "details": "Develope"
+      },
+      {
+        "name": "Mocha",
+        "level": 3,
+        "details": "Develope"
+      },
+      {
+        "name": "Vite",
+        "level": 2,
+        "details": "Develope"
+      },
+      {
+        "name": "Appium",
+        "level": 1,
+        "details": "Known"
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "skills": [
+      {
+        "name": "PostMan",
+        "level": 1,
+        "details": "Known and Use"
+      },
+      {
+        "name": "Git",
+        "level": 2,
+        "details": "Use"
+      },
+      {
+        "name": "Lokalize",
+        "level": 2,
+        "details": "Use"
+      },
+      {
+        "name": "Jira",
+        "level": 2,
+        "details": "Known"
+      },
+      {
+        "name": "Linux",
+        "level": 3,
+        "details": "Use and Develope"
       }
     ]
   }

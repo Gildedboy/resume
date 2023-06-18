@@ -2,15 +2,36 @@
   {
     "label": "For the Business Side",
     "competencies": [
-      "Publishing Domain Knowledge",
-      "Article review"
+      "Stakeholder Management",
+      "Requirements Gathering and Analysis",
+      "Domain Knowledge"
     ]
   },
   {
-    "label": "For the Traveling Side",
+    "label": "For the Technical Side",
     "competencies": [
-      "Outer space culture",
-      "Management of the Unexpected"
+      "Software Testing",
+      "Test Planning and Execution",
+      "Automation Testing",
+      "Programming Languages",
+      "System Analysis",
+      "Data Entry and Management",
+      "Responsive Design",
+      "Test Documentation",
+      "Version Control"
+    ]
+  },
+  {
+    "label": "For Project Management",
+    "competencies": ["Documentation", "Leadership", "Risk Management", "Budget Management"]
+  },
+  {
+    "label": "Cross-Functional",
+    "competencies": [
+      "Communication",
+      "Analytical and Problem-Solving Skills",
+      "Time Management",
+      "Agile Methodology"
     ]
   }
 ]
