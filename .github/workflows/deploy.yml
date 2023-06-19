@@ -1,0 +1,36 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Replace with your desired branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Build
+        run: yarn build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4.2.0
+        with:
+          branch: gh-pages
+          folder: dist # Replace with your build output folder
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: gildedboy
+
+      - name: Cleanup
+        run: rm -rf node_modules
