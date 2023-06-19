@@ -25,7 +25,7 @@
   ],
   "education": [
     {
-      "location": "Mazatlán, Sinaloa, Mexico",
+      "location": "Mazatlán, Sinaloa, México",
       "major": "Bachelor degree in Computer Science",
       "years": "2009-2013"
     }
@@ -34,30 +34,30 @@
   "companies": {
     "ACUICULTEC": {
       "name": "Acuicultec",
-      "location": "Mazatlán, Sinaloa, Mexico"
+      "location": "Mazatlán, Sinaloa, México"
     },
     "ALAMO": {
       "name": "Alamo",
-      "location": "Mazatlán, Sinaloa, Mexico"
+      "location": "Mazatlán, Sinaloa, México"
     },
     "UPC": {
       "name": "UPC",
-      "location": "Mazatlán, Sinaloa, Mexico"
+      "location": "Mazatlán, Sinaloa, México"
     },
     "CAPTAIN-GANDHI": {
       "name": "Captain Gandhi",
-      "location": "Mazatlán, Sinaloa, Mexico"
+      "location": "Mazatlán, Sinaloa, México"
     }
   },
   "experiences": [
     {
       "name": "QA Tester",
       "compagny": "ACUICULTEC",
-      "years": "2022-now",
+      "years": "2022-present",
       "missionShort": "Creating test cases, documentation and manual testing",
       "missionLong": [
         "Creating test cases, documentation and manual testing",
-        "I'm working manually testing the software that our developers creates like websites, mobile apps, propietary software and propietary hardware in order to create the best technological solution for the aquaculture.",
+        "I test the software and hardware that our developers creates like websites, mobile apps and others in order to create the best technological solution for the aquaculture.",
         "My main mission is to write test cases, make documentation for errors, automation testing and sometimes UX/UI suggestions for improvement on the hardware/software."
       ],
       "missions": [
