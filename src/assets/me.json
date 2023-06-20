@@ -30,7 +30,9 @@
       "years": "2009-2013"
     }
   ],
-  "hobbies": ["Fighting games enthusiast & Full Stack Javascript developer at nights "],
+  "hobbies": [
+    "Fighting games enthusiast & learning Javascript at nights aspiring to be a Full Stack Javascript Developer "
+  ],
   "companies": {
     "ACUICULTEC": {
       "name": "Acuicultec",
