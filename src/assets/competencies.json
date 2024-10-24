@@ -23,7 +23,12 @@
   },
   {
     "label": "For Project Management",
-    "competencies": ["Documentation", "Leadership", "Risk Management", "Budget Management"]
+    "competencies": [
+      "Documentation",
+      "Leadership",
+      "Risk Management",
+      "Budget Management"
+    ]
   },
   {
     "label": "Cross-Functional",
@@ -31,7 +36,10 @@
       "Communication",
       "Analytical and Problem-Solving Skills",
       "Time Management",
-      "Agile Methodology"
+      "Agile Methodology",
+      "Adaptability",
+      "Attention to Detail",
+      "Collaboration"
     ]
   }
 ]

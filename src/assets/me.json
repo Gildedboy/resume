@@ -8,7 +8,7 @@
     "occupation": "QA Tester"
   },
   "about": {
-    "details": "I am a passionate QA Tester with a strong interest in <b>software testing</b>. I thrive on finding bugs and ensuring top-notch quality in every software product. Currently, I am excited to delve into <b>automation testing</b> with <b>WebdriverIO</b> to enhance efficiency and effectiveness. With a solid background in <b>manual testing</b> and experience across various domains, I am adept at creating comprehensive <b>test plans</b>, executing <b>test cases</b>, and <b>reporting defects</b>. I am a proactive learner, keeping up with the latest trends in the field, and possess strong analytical and problem-solving skills.",
+    "details": "Passionate QA Tester with <b>expertise in software testing</b>, particularly focused on <b>automation</b> and ensuring <b>high-quality deliverables</b>. I excel at <b>identifying bugs</b> and improving the overall quality of software products. Currently, I specialize in <b>automation testing using Playwright</b>, allowing for more <b>efficient and effective testing processes</b>. In addition to my <b>solid background in manual testing</b>, I am <b>proficient in API testing with Postman</b>, <b>stress testing with JMeter</b>, and <b>dynamic application security testing (DAST) with OWASP ZAP</b>. I am a <b>proactive learner</b>, always staying updated on the latest trends, and possess <b>strong analytical and problem-solving skills</b>.",
     "mantra": "Si te rindes, pierdes"
   },
   "languages": [
@@ -34,6 +34,10 @@
     "Fighting games enthusiast & learning fully automation testing aspiring to be a full pledged tester and in a future certified by the ISTQB"
   ],
   "companies": {
+    "Grupo STI": {
+      "name": "Grupo STI",
+      "location": "Mazatlán, Sinaloa, México"
+    },
     "ACUICULTEC": {
       "name": "Acuicultec",
       "location": "Mazatlán, Sinaloa, México"
@@ -53,9 +57,52 @@
   },
   "experiences": [
     {
+      "name": "QA Automation Engineer",
+      "compagny": "Grupo STI",
+      "years": "2024-Present",
+      "missionShort": "Creating test cases, documentation, and conducting automation and manual testing",
+      "missionLong": [
+        "Creating test cases, documentation, and conducting automation and manual testing",
+        "I tested software developed by our team, ensuring quality across a variety of applications for diverse clients.",
+        "My main mission was to write test cases, document errors, perform automation and manual testing, conduct stress and API testing, and create extensive documentation and evidence based on test results. I also occasionally provided UX/UI improvement suggestions and also logic suggestions finding bugs in order to protect client interests"
+      ],
+      "missions": [
+        "Automation testing",
+        "Manual testing",
+        "Writing test cases",
+        "Reporting bugs",
+        "Creating documentation and test evidence",
+        "Applying Agile and Scrum methodologies",
+        "Stress and API testing"
+      ],
+      "additionals": [
+        {
+          "label": "Tech",
+          "details": [
+            "Agile",
+            "Git",
+            "GitHub",
+            "HTML",
+            "JavaScript",
+            "Mocha",
+            "Node.js",
+            "Playwright",
+            "Postman",
+            "Chai",
+            "JMeter",
+            "OWASP ZAP",
+            "DAST",
+            "SAST",
+            "NoSQL",
+            "SQL"
+          ]
+        }
+      ]
+    },
+    {
       "name": "QA Tester",
       "compagny": "ACUICULTEC",
-      "years": "2022-present",
+      "years": "2022-2024",
       "missionShort": "Creating test cases, documentation and manual testing",
       "missionLong": [
         "Creating test cases, documentation and manual testing",
@@ -113,7 +160,12 @@
       "additionals": [
         {
           "label": "Tech",
-          "details": ["Jira", "Trello", "Docs by Google", "Lokalize"]
+          "details": [
+            "Jira",
+            "Trello",
+            "Docs by Google",
+            "Lokalize"
+          ]
         }
       ]
     },
@@ -134,7 +186,14 @@
       "additionals": [
         {
           "label": "Tech",
-          "details": ["HTML", "CSS", "Wordpress", "PHP", "Jquery", "Javascript"]
+          "details": [
+            "HTML",
+            "CSS",
+            "Wordpress",
+            "PHP",
+            "Jquery",
+            "Javascript"
+          ]
         }
       ]
     },
@@ -147,11 +206,19 @@
         "Inventory Management, Reporting and Creations of labels for product shipping",
         "I worked as a Data Capturer, making sure that everyday the inventory of our products were in the system and were real compared to our frozen stock; also I was in charge of creating labels for this products including their Name, Weight and most importantly their expiration date."
       ],
-      "missions": ["Inventory Management", "Reporting", "Creations of labels for product shipping"],
+      "missions": [
+        "Inventory Management",
+        "Reporting",
+        "Creations of labels for product shipping"
+      ],
       "additionals": [
         {
           "label": "Tech",
-          "details": ["COMPAQ", "Excel", "Label Maker Software"]
+          "details": [
+            "COMPAQ",
+            "Excel",
+            "Label Maker Software"
+          ]
         }
       ]
     }

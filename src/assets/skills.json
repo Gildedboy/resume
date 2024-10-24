@@ -5,17 +5,22 @@
       {
         "name": "Test Cases",
         "level": 3,
-        "details": "Design and Use"
+        "details": "Design and Use for effective testing"
       },
       {
-        "name": "Requeriments",
+        "name": "Requirements",
         "level": 3,
-        "details": "Design and Use"
+        "details": "Create clear specifications"
       },
       {
         "name": "Defects",
         "level": 3,
-        "details": "Design and Use"
+        "details": "Document issues systematically"
+      },
+      {
+        "name": "Documentation",
+        "level": 3,
+        "details": "Maintain comprehensive test records"
       }
     ]
   },
@@ -25,17 +30,17 @@
       {
         "name": "Bash",
         "level": 2,
-        "details": "Use"
+        "details": "Common commands knowledge and also creation of scripts"
       },
       {
         "name": "CI/CD",
         "level": 2,
-        "details": "Use"
+        "details": "Implement pipelines for automation testing and Allure reporting"
       },
       {
         "name": "Docker",
-        "level": 1,
-        "details": "Known and Basic Deploy"
+        "level": 2,
+        "details": "Containerize applications for consistent testing environments and hosting Allure reports"
       }
     ]
   },
@@ -43,24 +48,24 @@
     "name": "BackEnd",
     "skills": [
       {
-        "name": "phpMy Admin",
+        "name": "phpMyAdmin",
         "level": 2,
-        "details": "Use"
+        "details": "Manage MySQL databases easily"
       },
       {
-        "name": "NodeJS",
+        "name": "Node.js",
         "level": 3,
-        "details": "Use and Deploy"
+        "details": "Required knowdledge for testing frameworks like Playwright and also creations of node.js scripts"
       },
       {
         "name": "HeidiSQL",
         "level": 3,
-        "details": "Use"
+        "details": "Connect and manage databases effectively"
       },
       {
         "name": "PHP",
         "level": 1,
-        "details": "Known and Use"
+        "details": "Understand server-side scripting"
       }
     ]
   },
@@ -70,42 +75,72 @@
       {
         "name": "HTML",
         "level": 3,
-        "details": "Develope"
+        "details": "Structure web content semantically"
       },
       {
         "name": "CSS",
         "level": 3,
-        "details": "Develope"
+        "details": "Style and layout web pages"
       },
       {
-        "name": "Javascript",
+        "name": "JavaScript",
         "level": 3,
-        "details": "Develope"
+        "details": "Add interactivity to web applications"
       },
       {
         "name": "React",
         "level": 1,
-        "details": "Known"
+        "details": "Familiar with component-based UI"
       },
       {
-        "name": "WebDriverIO",
-        "level": 3,
-        "details": "Develope"
+        "name": "Vue",
+        "level": 2,
+        "details": "Utilize for building user interfaces"
+      },
+      {
+        "name": "Angular",
+        "level": 2,
+        "details": "Implement complex front-end applications"
+      },
+      {
+        "name": "Astro.js",
+        "level": 2,
+        "details": "Build fast, content-focused websites"
+      },
+      {
+        "name": "Docusaurus",
+        "level": 2,
+        "details": "Create documentation sites easily"
       },
       {
         "name": "Mocha",
         "level": 3,
-        "details": "Develope"
+        "details": "Test JavaScript code effectively"
       },
       {
         "name": "Vite",
         "level": 2,
-        "details": "Develope"
+        "details": "Fast build tool for modern web apps"
       },
       {
-        "name": "Appium",
-        "level": 1,
-        "details": "Known"
+        "name": "Playwright",
+        "level": 3,
+        "details": "Automate browser testing efficiently"
+      },
+      {
+        "name": "Postman",
+        "level": 2,
+        "details": "Test and document APIs effectively"
+      },
+      {
+        "name": "JMeter",
+        "level": 2,
+        "details": "Perform load testing on applications"
+      },
+      {
+        "name": "OWASP ZAP",
+        "level": 2,
+        "details": "Scan applications for security vulnerabilities"
       }
     ]
   },
@@ -113,29 +148,59 @@
     "name": "Other",
     "skills": [
       {
-        "name": "PostMan",
-        "level": 1,
-        "details": "Known and Use"
-      },
-      {
         "name": "Git",
         "level": 2,
-        "details": "Use"
-      },
-      {
-        "name": "Lokalize",
-        "level": 2,
-        "details": "Use"
+        "details": "Version control for code management, mostly on testing repositories"
       },
       {
         "name": "Jira",
         "level": 2,
-        "details": "Known"
+        "details": "Track project progress and issues"
+      },
+      {
+        "name": "Xray",
+        "level": 2,
+        "details": "Manage testing in Jira"
       },
       {
         "name": "Linux",
         "level": 3,
-        "details": "Use and Develope"
+        "details": "Work comfortably in a Linux environment"
+      },
+      {
+        "name": "DAST",
+        "level": 2,
+        "details": "Dynamic analysis for security testing"
+      },
+      {
+        "name": "SAST",
+        "level": 2,
+        "details": "Static analysis for code security"
+      },
+      {
+        "name": "NoSQL",
+        "level": 2,
+        "details": "Understand non-relational databases"
+      },
+      {
+        "name": "SQL",
+        "level": 2,
+        "details": "Query and manipulate relational data"
+      },
+      {
+        "name": "Sequel Pro",
+        "level": 2,
+        "details": "Manage MySQL databases visually"
+      },
+      {
+        "name": "Studio 3T",
+        "level": 2,
+        "details": "Work with MongoDB efficiently"
+      },
+      {
+        "name": "Slack",
+        "level": 2,
+        "details": "Facilitate team communication"
       }
     ]
   }

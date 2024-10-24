@@ -21,8 +21,8 @@
     },
     "legend": "Knowledge levels",
     "levels": {
-      "lvl1": "Competent",
-      "lvl2": "Beginner",
+      "lvl1": "Beginner",
+      "lvl2": "Competent",
       "lvl3": "Advanced",
       "lvl4": "Proficient",
       "lvl5": "Expert"
