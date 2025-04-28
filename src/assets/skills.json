@@ -83,9 +83,9 @@
         "details": "Style and layout web pages"
       },
       {
-        "name": "JavaScript",
+        "name": "JavaScript/TypeScript",
         "level": 3,
-        "details": "Add interactivity to web applications"
+        "details": "Mostly used for creation of automation scripts"
       },
       {
         "name": "React",
@@ -141,6 +141,21 @@
         "name": "OWASP ZAP",
         "level": 2,
         "details": "Scan applications for security vulnerabilities"
+      },
+      {
+        "name": "Java",
+        "level": 1,
+        "details": "Create automation scripts."
+      },
+      {
+        "name": "Selenium",
+        "level": 1,
+        "details": "Automate browser interactions."
+      },
+      {
+        "name": "TestNG",
+        "level": 1,
+        "details": "Manage and run automated tests."
       }
     ]
   },
