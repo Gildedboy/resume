@@ -1,45 +1,45 @@
 [
   {
-    "label": "For the Business Side",
+    "label": "QA Strategy & Execution",
     "competencies": [
-      "Stakeholder Management",
-      "Requirements Gathering and Analysis",
-      "Domain Knowledge"
+      "Manual Testing",
+      "Test Case Design",
+      "Regression Testing",
+      "Defect Reporting",
+      "Test Evidence",
+      "Requirements Analysis"
     ]
   },
   {
-    "label": "For the Technical Side",
+    "label": "Automation & Technical Growth",
     "competencies": [
-      "Software Testing",
-      "Test Planning and Execution",
-      "Automation Testing",
-      "Programming Languages",
-      "System Analysis",
-      "Data Entry and Management",
-      "Responsive Design",
-      "Test Documentation",
+      "Playwright",
+      "TypeScript Automation",
+      "API Testing",
+      "AI-Assisted QA Workflows",
+      "CI/CD Testing Concepts",
       "Version Control"
     ]
   },
   {
-    "label": "For Project Management",
+    "label": "Security & Performance Awareness",
     "competencies": [
-      "Documentation",
-      "Leadership",
-      "Risk Management",
-      "Budget Management"
+      "DAST",
+      "SAST Concepts",
+      "OWASP ZAP",
+      "Stress Testing",
+      "Risk Identification"
     ]
   },
   {
-    "label": "Cross-Functional",
+    "label": "Collaboration",
     "competencies": [
       "Communication",
-      "Analytical and Problem-Solving Skills",
-      "Time Management",
       "Agile Methodology",
-      "Adaptability",
-      "Attention to Detail",
-      "Collaboration"
+      "Stakeholder Collaboration",
+      "Analytical Thinking",
+      "Problem Solving",
+      "Attention to Detail"
     ]
   }
 ]

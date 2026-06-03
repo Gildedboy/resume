@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./components/About/About";
+import Certifications from "./components/Certifications/Certifications";
 import Education from "./components/Education/Education";
 import Experience, { Company } from "./components/Experience/Experience";
 import Hobbies from "./components/Hobbies/Hobbies";
@@ -9,11 +10,13 @@ import Skills from "./components/Skills/Skills";
 import competencies from "./assets/competencies.json";
 import labels from "./assets/labels.json";
 import me from "./assets/me.json";
+import projects from "./assets/projects.json";
 import skills from "./assets/skills.json";
 import Competencies from "./components/Competencies/Competencies";
 import FloatingActionButton from "./components/FAB/FloatingActionButton";
 import Hero from "./components/HeroBanner/HeroBanner";
 import LeftCard from "./components/LeftCard/LeftCard";
+import Projects from "./components/Projects/Projects";
 
 function App() {
   const companiesMap = new Map<string, Company>(Object.entries(me.companies));
@@ -38,6 +41,9 @@ function App() {
             <LeftCard title={labels.education}>
               <Education eduction={me.education} />
             </LeftCard>
+            <LeftCard title={labels.certifications}>
+              <Certifications certifications={me.certifications} />
+            </LeftCard>
             <LeftCard title={labels.toFoolAway}>
               <Hobbies hobbies={me.hobbies} />
             </LeftCard>
@@ -47,6 +53,7 @@ function App() {
           </div>
         </div>
         <div className="extra">
+          <Projects projects={projects} title={labels.projects} />
           <Competencies competencies={competencies} />
           <Skills skillGroups={skills} />
         </div>

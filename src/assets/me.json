@@ -4,11 +4,11 @@
     "firstname": "Omar",
     "lastname": "Millán Cázares",
     "contact": "https://linkedin.com/in/gilded/",
-    "spotlight": "QA Tester with a few years in the software industry, specializing in Javascript automation testing",
-    "occupation": "QA Tester"
+    "spotlight": "QA Automation Engineer with a few years in the software industry, specializing in Playwright and TypeScript automation testing",
+    "occupation": "QA Automation Engineer"
   },
   "about": {
-    "details": "Passionate QA Tester with <b>expertise in software testing</b>, particularly focused on <b>automation</b> and ensuring <b>high-quality deliverables</b>. I excel at <b>identifying bugs</b> and improving the overall quality of software products. Currently, I specialize in <b>automation testing using Playwright</b>, allowing for more <b>efficient and effective testing processes</b>. In addition to my <b>solid background in manual testing</b>, I am <b>proficient in API testing with Postman</b>, <b>stress testing with JMeter</b>, and <b>dynamic application security testing (DAST) with OWASP ZAP</b>. I am a <b>proactive learner</b>, always staying updated on the latest trends, and possess <b>strong analytical and problem-solving skills</b>.",
+    "details": "<b>QA Automation Engineer</b> with a <b>strong foundation in manual testing</b> and growing expertise in <b>automated testing using Playwright and TypeScript</b>. I focus on building <b>reliable test coverage</b>, <b>identifying bugs early</b>, documenting clear evidence, and improving the quality of software products across web applications and APIs. I also have experience with <b>REST and SOAP API testing</b>, <b>stress testing with JMeter</b>, and <b>dynamic application security testing (DAST) with OWASP ZAP</b>, along with exposure to <b>SAST concepts</b>. I am a <b>proactive learner</b> with <b>strong analytical and problem-solving skills</b>, always looking for ways to make testing processes more efficient, maintainable, and valuable for the team.",
     "mantra": "Si te rindes, pierdes"
   },
   "languages": [
@@ -30,12 +30,30 @@
       "years": "2009-2013"
     }
   ],
+  "certifications": [
+    {
+      "name": "ISTQB Foundation Level",
+      "status": "In progress"
+    },
+    {
+      "name": "QA automation with Playwright and TypeScript",
+      "status": "Independent learning"
+    },
+    {
+      "name": "AI-assisted QA and automation workflows",
+      "status": "Independent learning"
+    }
+  ],
   "hobbies": [
-    "Fighting games enthusiast & learning automation testing aspiring to be a fully fledged automation tester and in a future certified by the ISTQB"
+    "Fighting games enthusiast who enjoys continuous learning, especially around QA automation and AI-assisted testing workflows to improve speed and efficiency."
   ],
   "companies": {
     "Grupo STI": {
       "name": "Grupo STI",
+      "location": "Mazatlán, Sinaloa, México"
+    },
+    "OUTPOSTQA": {
+      "name": "OutpostQA",
       "location": "Mazatlán, Sinaloa, México"
     },
     "ACUICULTEC": {
@@ -57,14 +75,52 @@
   },
   "experiences": [
     {
+      "name": "Mid Manual QA Tester",
+      "compagny": "OUTPOSTQA",
+      "years": "2025-Present",
+      "missionShort": "Executing manual testing across mobile, API, regression, smoke, and functional testing workflows",
+      "missionLong": [
+        "Executing manual testing across mobile, API, regression, smoke, and functional testing workflows",
+        "I perform manual quality assurance activities focused on validating product behavior across mobile applications, APIs, and different testing scenarios to support reliable software delivery.",
+        "My main mission is to execute test cases, validate tickets, document issues clearly, provide test evidence, perform regression and smoke testing, and collaborate with the team to improve testing processes and product quality."
+      ],
+      "missions": [
+        "Manual testing",
+        "Mobile testing",
+        "API testing",
+        "Regression testing",
+        "Smoke testing",
+        "Functional testing",
+        "Ticket validation",
+        "Executing test cases",
+        "Reporting bugs",
+        "Creating documentation and test evidence",
+        "Improving QA processes"
+      ],
+      "additionals": [
+        {
+          "label": "Tech",
+          "details": [
+            "Git",
+            "GitHub",
+            "REST API testing",
+            "Jira",
+            "Mobile testing",
+            "Regression testing",
+            "Smoke testing"
+          ]
+        }
+      ]
+    },
+    {
       "name": "QA Automation Engineer",
       "compagny": "Grupo STI",
-      "years": "2024-Present",
-      "missionShort": "Creating test cases, documentation, and conducting automation and manual testing",
+      "years": "2024-September 2025",
+      "missionShort": "Creating test cases, documenting evidence, and executing automation and manual testing",
       "missionLong": [
-        "Creating test cases, documentation, and conducting automation and manual testing",
+        "Creating test cases, documenting evidence, and executing automation and manual testing",
         "I tested software developed by our team, ensuring quality across a variety of applications for diverse clients.",
-        "My main mission was to write test cases, document errors, perform automation and manual testing, conduct stress and API testing, and create extensive documentation and evidence based on test results. I also occasionally provided UX/UI improvement suggestions and also logic suggestions finding bugs in order to protect client interests"
+        "My main mission was to write test cases, document defects, perform automation and manual testing, conduct stress and API testing, and create detailed documentation and evidence based on test results. I also provided UX/UI and logic improvement suggestions when defects or usability issues could affect the client experience."
       ],
       "missions": [
         "Automation testing",
@@ -103,18 +159,18 @@
       "name": "QA Tester",
       "compagny": "ACUICULTEC",
       "years": "2022-2024",
-      "missionShort": "Creating test cases, documentation and manual testing",
+      "missionShort": "Creating test cases, documenting defects, and executing manual testing",
       "missionLong": [
-        "Creating test cases, documentation and manual testing",
-        "I test the software and hardware that our developers creates like websites, mobile apps and others in order to create the best technological solution for the aquaculture.",
-        "My main mission is to write test cases, make documentation for errors, automation testing and sometimes UX/UI suggestions for improvement on the hardware/software."
+        "Creating test cases, documenting defects, and executing manual testing",
+        "I tested software and hardware products developed for aquaculture solutions, including websites, mobile applications, and related systems.",
+        "My main mission was to write test cases, document defects, perform manual and automation testing, and provide UX/UI improvement suggestions for both hardware and software products."
       ],
       "missions": [
         "Manual testing",
-        "Write test cases",
-        "Reporting Bugs",
-        "Apply agile methodology",
-        "Automation Testing"
+        "Writing test cases",
+        "Reporting bugs",
+        "Applying Agile methodology",
+        "Automation testing"
       ],
       "additionals": [
         {
@@ -145,16 +201,16 @@
       "missionShort": "Defect/Bug Tracking and Project Management",
       "missionLong": [
         "Defect/Bug Tracking and Project Management",
-        "I worked as a Project Manager ensuring to create a solution for Alamo Rent a Car, this solution was with the intention of create a mobile app so users can book a car and drive it without requiring to go to an Alamo Office and instead the vehicle was a safe location like a mall or hotel parking lot where users can book it, drive it and leave it in another safe spot, it was like Uber but you could drive the vehicle.",
-        "My main mission was to contact with the developers, creators of the solution and making sure that they can fulfill Alamo standards and make the required changes so the experience for users in Mexico would be perfect without any issues, I had to manually install the required hardware, test the software (for clients and administrators) and also make tickets in Jira in order to track these ones until their fulfilment."
+        "I worked as a Project Manager on a mobility solution for Alamo Rent a Car, focused on allowing users to book and drive vehicles without visiting a physical office.",
+        "My main mission was to coordinate with the development team, validate that the solution met Alamo standards for the Mexican market, install proprietary hardware, test client and administrator software, and create Jira tickets to track issues through completion."
       ],
       "missions": [
         "Defect/Bug Tracking",
         "Jira Ticket Creation",
         "Reporting",
-        "Installation of propietary hardware required for the service",
-        "Testing in any end (client, worker)",
-        "Project Managment",
+        "Installation of proprietary hardware required for the service",
+        "Client and administrator testing",
+        "Project Management",
         "Translations"
       ],
       "additionals": [
@@ -176,7 +232,7 @@
       "missionShort": "CMMI Implementation, Web Developer Trainee",
       "missionLong": [
         "CMMI Implementation, Web Developer Trainee",
-        "I worked as a Software Analyst and my main task was to implement CMMI Best Practices in order to make developers on this company to understand CMMI and optimize the process of developing the propietary software, including to this I was also given the opportunity to develop some websites using wordpress as backend and the frontend being custom made."
+        "I worked as a Software Analyst, implementing CMMI best practices to help development teams understand process improvements and optimize proprietary software development. I was also given the opportunity to develop websites using WordPress as the backend with custom frontend work."
       ],
       "missions": [
         "Implementation of CMMI Best Practices",
@@ -189,10 +245,10 @@
           "details": [
             "HTML",
             "CSS",
-            "Wordpress",
+            "WordPress",
             "PHP",
-            "Jquery",
-            "Javascript"
+            "jQuery",
+            "JavaScript"
           ]
         }
       ]
@@ -201,15 +257,15 @@
       "name": "Data Capturer",
       "compagny": "CAPTAIN-GANDHI",
       "years": "2013-2015",
-      "missionShort": "Inventory Management, Reporting and Creations of labels for product shipping",
+      "missionShort": "Inventory management, reporting, and creation of product shipping labels",
       "missionLong": [
-        "Inventory Management, Reporting and Creations of labels for product shipping",
-        "I worked as a Data Capturer, making sure that everyday the inventory of our products were in the system and were real compared to our frozen stock; also I was in charge of creating labels for this products including their Name, Weight and most importantly their expiration date."
+        "Inventory management, reporting, and creation of product shipping labels",
+        "I worked as a Data Capturer, ensuring daily product inventory was accurately registered in the system and matched the physical frozen stock. I was also responsible for creating product labels with name, weight, and expiration date information."
       ],
       "missions": [
         "Inventory Management",
         "Reporting",
-        "Creations of labels for product shipping"
+        "Creation of product shipping labels"
       ],
       "additionals": [
         {

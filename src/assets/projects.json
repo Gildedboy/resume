@@ -1,0 +1,35 @@
+[
+  {
+    "name": "HSR Team Builder",
+    "url": "https://hsr-team-builder.gilded.dev",
+    "summary": "Personal web project for building and exploring Honkai: Star Rail team compositions with character and light cone data.",
+    "highlights": [
+      "Designed as a practical tool for comparing team options and improving decision-making workflows",
+      "Uses structured data to support character, light cone, and team-building references",
+      "Serves as a personal space to practice frontend development, QA thinking, automation, and AI-assisted workflow improvements"
+    ],
+    "tech": [
+      "TypeScript",
+      "Frontend Development",
+      "API Data",
+      "QA Automation Practice",
+      "AI-Assisted Workflows"
+    ]
+  },
+  {
+    "name": "ani-cli-mx",
+    "summary": "Personal CLI project focused on improving terminal-based anime search and playback workflows.",
+    "highlights": [
+      "Maintained and customized CLI behavior for personal workflow improvements",
+      "Worked with shell scripting, debugging, and source handling",
+      "Practiced Linux tooling, Git workflows, and iterative testing"
+    ],
+    "tech": [
+      "Bash",
+      "Linux",
+      "Git",
+      "CLI Tooling",
+      "Debugging"
+    ]
+  }
+]

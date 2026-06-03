@@ -6,12 +6,14 @@
   "aboutMe": "About Me",
   "languages": "Languages",
   "education": "Education",
+  "certifications": "Certifications & Learning",
   "toFoolAway": "Hobbies",
   "experience": {
     "label": "Experience",
     "missions": "Missions"
   },
   "competencies": "Competencies",
+  "projects": "Projects",
   "skills": {
     "label": "Skills",
     "column": {

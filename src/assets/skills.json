@@ -1,106 +1,181 @@
 [
   {
-    "name": "Writing",
+    "name": "QA & Testing",
     "skills": [
+      {
+        "name": "Manual Testing",
+        "level": 3,
+        "details": "Validate product behavior through exploratory and structured testing"
+      },
       {
         "name": "Test Cases",
         "level": 3,
-        "details": "Design and Use for effective testing"
+        "details": "Design and execute test cases for effective coverage"
       },
       {
         "name": "Requirements",
         "level": 3,
-        "details": "Create clear specifications"
+        "details": "Analyze requirements and identify testable scenarios"
       },
       {
         "name": "Defects",
         "level": 3,
-        "details": "Document issues systematically"
+        "details": "Document issues clearly with steps, evidence, and impact"
       },
       {
         "name": "Documentation",
         "level": 3,
-        "details": "Maintain comprehensive test records"
+        "details": "Maintain clear test records, evidence, and QA references"
+      },
+      {
+        "name": "Xray",
+        "level": 2,
+        "details": "Manage testing workflows inside Jira"
       }
     ]
   },
   {
-    "name": "DevOps",
+    "name": "Automation & Programming",
     "skills": [
       {
-        "name": "Bash",
-        "level": 2,
-        "details": "Common commands knowledge and also creation of scripts"
-      },
-      {
-        "name": "CI/CD",
-        "level": 2,
-        "details": "Implement pipelines for automation testing and Allure reporting"
-      },
-      {
-        "name": "Docker",
-        "level": 2,
-        "details": "Containerize applications for consistent testing environments and hosting Allure reports"
-      }
-    ]
-  },
-  {
-    "name": "BackEnd",
-    "skills": [
-      {
-        "name": "phpMyAdmin",
-        "level": 2,
-        "details": "Manage MySQL databases easily"
+        "name": "JavaScript/TypeScript",
+        "level": 3,
+        "details": "Create automation scripts and testing utilities"
       },
       {
         "name": "Node.js",
         "level": 3,
-        "details": "Required knowdledge for testing frameworks like Playwright and also creations of node.js scripts"
+        "details": "Build and run testing frameworks, scripts, and tooling"
       },
       {
-        "name": "HeidiSQL",
+        "name": "Playwright",
         "level": 3,
-        "details": "Connect and manage databases effectively"
+        "details": "Create browser automation scripts for web application testing"
       },
       {
-        "name": "PHP",
+        "name": "Mocha",
+        "level": 3,
+        "details": "Test JavaScript and TypeScript behavior effectively"
+      },
+      {
+        "name": "Selenium",
         "level": 1,
-        "details": "Understand server-side scripting"
+        "details": "Automate browser interactions"
+      },
+      {
+        "name": "TestNG",
+        "level": 1,
+        "details": "Manage and run Java-based automated tests"
+      },
+      {
+        "name": "Java",
+        "level": 1,
+        "details": "Create basic automation scripts"
       }
     ]
   },
   {
-    "name": "FrontEnd & Testing",
+    "name": "API Testing",
+    "skills": [
+      {
+        "name": "REST API Testing",
+        "level": 2,
+        "details": "Validate API behavior, responses, and integrations"
+      },
+      {
+        "name": "SOAP API Testing",
+        "level": 2,
+        "details": "Validate XML-based services and API responses"
+      },
+      {
+        "name": "Postman",
+        "level": 2,
+        "details": "Test and document API requests effectively"
+      },
+      {
+        "name": "Yaak",
+        "level": 2,
+        "details": "Test and inspect REST and SOAP API requests"
+      }
+    ]
+  },
+  {
+    "name": "AI-Assisted QA Workflow",
+    "skills": [
+      {
+        "name": "AI-assisted testing workflows",
+        "level": 2,
+        "details": "Use AI assistance to improve QA speed, coverage, and documentation"
+      },
+      {
+        "name": "Codex",
+        "level": 2,
+        "details": "Assist QA automation, code review, debugging, and workflow acceleration"
+      },
+      {
+        "name": "ChatGPT",
+        "level": 2,
+        "details": "Support test planning, documentation, research, and QA analysis"
+      },
+      {
+        "name": "Claude",
+        "level": 2,
+        "details": "Assist with QA documentation, analysis, and workflow improvement"
+      },
+      {
+        "name": "OpenCode",
+        "level": 2,
+        "details": "Support AI-assisted development and testing workflows"
+      }
+    ]
+  },
+  {
+    "name": "Security & Performance",
+    "skills": [
+      {
+        "name": "JMeter",
+        "level": 2,
+        "details": "Perform load and stress testing on applications"
+      },
+      {
+        "name": "OWASP ZAP",
+        "level": 2,
+        "details": "Scan applications for security vulnerabilities"
+      },
+      {
+        "name": "DAST",
+        "level": 2,
+        "details": "Apply dynamic analysis concepts for security testing"
+      },
+      {
+        "name": "SAST",
+        "level": 2,
+        "details": "Understand static analysis concepts for code security"
+      }
+    ]
+  },
+  {
+    "name": "Frontend & Web",
     "skills": [
       {
         "name": "HTML",
         "level": 3,
-        "details": "Structure web content semantically"
+        "details": "Understand and inspect semantic web structure"
       },
       {
         "name": "CSS",
         "level": 3,
-        "details": "Style and layout web pages"
-      },
-      {
-        "name": "JavaScript/TypeScript",
-        "level": 3,
-        "details": "Mostly used for creation of automation scripts"
-      },
-      {
-        "name": "React",
-        "level": 1,
-        "details": "Familiar with component-based UI"
+        "details": "Inspect styling, layout, and responsive behavior"
       },
       {
         "name": "Vue",
         "level": 2,
-        "details": "Utilize for building user interfaces"
+        "details": "Work with component-based user interfaces"
       },
       {
         "name": "Angular",
         "level": 2,
-        "details": "Implement complex front-end applications"
+        "details": "Understand complex front-end application structures"
       },
       {
         "name": "Astro.js",
@@ -110,97 +185,47 @@
       {
         "name": "Docusaurus",
         "level": 2,
-        "details": "Create documentation sites easily"
-      },
-      {
-        "name": "Mocha",
-        "level": 3,
-        "details": "Test JavaScript code effectively"
+        "details": "Create and maintain documentation sites"
       },
       {
         "name": "Vite",
         "level": 2,
-        "details": "Fast build tool for modern web apps"
+        "details": "Use modern tooling for web development and testing projects"
       },
       {
-        "name": "Playwright",
-        "level": 3,
-        "details": "Automate browser testing efficiently"
-      },
-      {
-        "name": "Postman",
-        "level": 2,
-        "details": "Test and document APIs effectively"
-      },
-      {
-        "name": "JMeter",
-        "level": 2,
-        "details": "Perform load testing on applications"
-      },
-      {
-        "name": "OWASP ZAP",
-        "level": 2,
-        "details": "Scan applications for security vulnerabilities"
-      },
-      {
-        "name": "Java",
+        "name": "React",
         "level": 1,
-        "details": "Create automation scripts."
+        "details": "Familiar with component-based UI development"
       },
       {
-        "name": "Selenium",
+        "name": "PHP",
         "level": 1,
-        "details": "Automate browser interactions."
-      },
-      {
-        "name": "TestNG",
-        "level": 1,
-        "details": "Manage and run automated tests."
+        "details": "Understand server-side scripting basics"
       }
     ]
   },
   {
-    "name": "Other",
+    "name": "Databases",
     "skills": [
       {
-        "name": "Git",
-        "level": 2,
-        "details": "Version control for code management, mostly on testing repositories"
-      },
-      {
-        "name": "Jira",
-        "level": 2,
-        "details": "Track project progress and issues"
-      },
-      {
-        "name": "Xray",
-        "level": 2,
-        "details": "Manage testing in Jira"
-      },
-      {
-        "name": "Linux",
+        "name": "HeidiSQL",
         "level": 3,
-        "details": "Work comfortably in a Linux environment"
-      },
-      {
-        "name": "DAST",
-        "level": 2,
-        "details": "Dynamic analysis for security testing"
-      },
-      {
-        "name": "SAST",
-        "level": 2,
-        "details": "Static analysis for code security"
-      },
-      {
-        "name": "NoSQL",
-        "level": 2,
-        "details": "Understand non-relational databases"
+        "details": "Connect to and inspect relational databases effectively"
       },
       {
         "name": "SQL",
         "level": 2,
-        "details": "Query and manipulate relational data"
+        "details": "Query and validate relational data"
+      },
+      {
+        "name": "NoSQL",
+        "level": 2,
+        "details": "Understand and inspect non-relational data"
+      },
+      {
+        "name": "phpMyAdmin",
+        "level": 2,
+        "details": "Manage and inspect MySQL databases"
       },
       {
         "name": "Sequel Pro",
@@ -210,12 +235,57 @@
       {
         "name": "Studio 3T",
         "level": 2,
-        "details": "Work with MongoDB efficiently"
+        "details": "Work with MongoDB data efficiently"
+      }
+    ]
+  },
+  {
+    "name": "DevOps & Collaboration",
+    "skills": [
+      {
+        "name": "Linux",
+        "level": 3,
+        "details": "Work comfortably in a Linux environment"
+      },
+      {
+        "name": "Git",
+        "level": 2,
+        "details": "Version control for code and testing repositories"
+      },
+      {
+        "name": "GitHub",
+        "level": 2,
+        "details": "Collaborate on repositories and review project changes"
+      },
+      {
+        "name": "Bash",
+        "level": 2,
+        "details": "Use common commands and create basic scripts"
+      },
+      {
+        "name": "CI/CD",
+        "level": 2,
+        "details": "Implement pipelines for automation testing and Allure reporting"
+      },
+      {
+        "name": "Docker",
+        "level": 2,
+        "details": "Containerize applications for consistent testing environments"
+      },
+      {
+        "name": "Jira",
+        "level": 2,
+        "details": "Track project progress, defects, and QA tasks"
+      },
+      {
+        "name": "Linear",
+        "level": 2,
+        "details": "Track issues and collaborate on product workflows"
       },
       {
         "name": "Slack",
         "level": 2,
-        "details": "Facilitate team communication"
+        "details": "Support team communication and coordination"
       }
     ]
   }

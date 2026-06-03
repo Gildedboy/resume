@@ -1,0 +1,21 @@
+.projects {
+  @apply mb-10 px-8 sm:px-0;
+}
+.projects > div {
+  @apply grid grid-cols-1 gap-4;
+}
+.project {
+  @apply py-2;
+}
+.project h3 a {
+  @apply text-nord5 no-underline;
+}
+.project h3 a:hover {
+  @apply text-nord8;
+}
+.project p {
+  @apply py-2 text-nord7 font-light;
+}
+.project-tech {
+  @apply text-nord8 italic;
+}
